@@ -1,0 +1,11 @@
+data/train/neg.40.jpg 0
+data/train/pos.48.jpg 1
+data/train/neg.27.jpg 0
+data/train/pos.35.jpg 1
+data/train/neg.24.jpg 0
+data/train/pos.31.jpg 1
+data/train/neg.47.jpg 0
+data/train/neg.15.jpg 0
+data/train/pos.27.jpg 1
+data/train/pos.18.jpg 1
+data/train/pos.14.jpg 1
